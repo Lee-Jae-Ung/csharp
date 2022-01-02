@@ -1,0 +1,15 @@
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/bin/Debug/net5.0/mul_sv.deps.json
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/bin/Debug/net5.0/mul_sv.runtimeconfig.json
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/bin/Debug/net5.0/mul_sv.runtimeconfig.dev.json
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/bin/Debug/net5.0/mul_sv.dll
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/bin/Debug/net5.0/ref/mul_sv.dll
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/bin/Debug/net5.0/mul_sv.pdb
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/obj/Debug/net5.0/mul_sv.csproj.AssemblyReference.cache
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/obj/Debug/net5.0/mul_sv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/obj/Debug/net5.0/mul_sv.AssemblyInfoInputs.cache
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/obj/Debug/net5.0/mul_sv.AssemblyInfo.cs
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/obj/Debug/net5.0/mul_sv.csproj.CoreCompileInputs.cache
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/obj/Debug/net5.0/mul_sv.dll
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/obj/Debug/net5.0/ref/mul_sv.dll
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/obj/Debug/net5.0/mul_sv.pdb
+/Users/jaeung/Projects/test_sv/mul_sv/mul_sv/obj/Debug/net5.0/mul_sv.genruntimeconfig.cache
