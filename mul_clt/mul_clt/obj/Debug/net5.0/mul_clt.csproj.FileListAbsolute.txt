@@ -1,0 +1,15 @@
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/bin/Debug/net5.0/mul_clt.deps.json
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/bin/Debug/net5.0/mul_clt.runtimeconfig.json
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/bin/Debug/net5.0/mul_clt.runtimeconfig.dev.json
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/bin/Debug/net5.0/mul_clt.dll
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/bin/Debug/net5.0/ref/mul_clt.dll
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/bin/Debug/net5.0/mul_clt.pdb
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/obj/Debug/net5.0/mul_clt.csproj.AssemblyReference.cache
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/obj/Debug/net5.0/mul_clt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/obj/Debug/net5.0/mul_clt.AssemblyInfoInputs.cache
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/obj/Debug/net5.0/mul_clt.AssemblyInfo.cs
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/obj/Debug/net5.0/mul_clt.csproj.CoreCompileInputs.cache
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/obj/Debug/net5.0/mul_clt.dll
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/obj/Debug/net5.0/ref/mul_clt.dll
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/obj/Debug/net5.0/mul_clt.pdb
+/Users/jaeung/Projects/test_sv/mul_clt/mul_clt/obj/Debug/net5.0/mul_clt.genruntimeconfig.cache

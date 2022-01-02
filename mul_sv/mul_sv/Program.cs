@@ -41,8 +41,8 @@ namespace server
             recieveAsync.Completed += new EventHandler<SocketAsyncEventArgs>(recieveAsync_Completed);
             client.ReceiveAsync(recieveAsync);
             Console.WriteLine();
-            Console.WriteLine("***********" + strName + " Connected ***********");
-            Console.Write("Sender ?");
+            Console.WriteLine("[" + strName + "] " + " Connected");
+            Console.Write("[Send to] ");
             e.AcceptSocket = null;
             server.AcceptAsync(e);
         }
@@ -59,9 +59,9 @@ namespace server
                 if (Name != null)
                 {
                     Console.WriteLine();
-                    Console.WriteLine("***********" + Name + " receive ***********");
+                    Console.WriteLine("[" + Name + "]" + " receive");
                     Console.WriteLine(data2);
-                    Console.Write("Sender ?");
+                    Console.Write("[Send to] ");
                 }
                 else
                 {
@@ -84,11 +84,11 @@ namespace server
         {
             while (true)
             {
-                Console.Write("Sender ?");
+                Console.Write("[Send to] ");
                 String sender = Console.ReadLine();
                 if (m_client.ContainsKey(sender))
                 {
-                    Console.Write("Message ?");
+                    Console.Write("   [Message] ");
                     String message = Console.ReadLine();
                     Socket client = m_client[sender];
                     byte[] data = Encoding.Unicode.GetBytes(message);

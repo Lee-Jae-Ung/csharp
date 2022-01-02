@@ -16,14 +16,15 @@ namespace client
         public Program()
         {
             initialize();
-            Console.WriteLine("************Message**********");
+            Console.WriteLine("[Received Message] ");
             Console.ReadLine();
         }
         private String m_Name;
         public void initialize()
         {
-            Console.Write("Name?");
+            Console.Write("[Input Client Name] ");
             String strName = Console.ReadLine();
+
             if (strName.Trim().Length > 0)
             {
                 m_Name = strName;
@@ -56,7 +57,7 @@ namespace client
                 byte[] data = new byte[length];
                 client.Receive(data, length, SocketFlags.None);
                 StringBuilder sb = new StringBuilder();
-                sb.Append(m_Name);
+                sb.Append("["+m_Name+"]");
                 sb.Append(" - ");
                 sb.Append(Encoding.Unicode.GetString(data));
 
@@ -68,11 +69,13 @@ namespace client
 
                 if (result == 1)
                 {
+
                     Type type = typeof(Reboot);
                     MethodInfo method = type.GetMethod("Test");
                     Reboot c = new Reboot();
                     string result1 = (string)method.Invoke(c, null);
                     Console.WriteLine(result1);
+
                 }
 
                 else if (result == 3)
@@ -83,6 +86,7 @@ namespace client
                     string result1 = (string)method.Invoke(c, null);
                     Console.WriteLine(result1);
                 }
+                
             }
             client.ReceiveAsync(e);
         }
@@ -101,5 +105,17 @@ class Reboot
     public static void Test()
     {
         Console.Write("this is mac");
+    }
+}
+
+class execute
+{
+    public static void exe(String mtd)
+    {
+        Type type = typeof(Reboot);
+        MethodInfo method = type.GetMethod(mtd);
+        Reboot c = new Reboot();
+        string result1 = (string)method.Invoke(c, null);
+        Console.WriteLine(result1);
     }
 }
