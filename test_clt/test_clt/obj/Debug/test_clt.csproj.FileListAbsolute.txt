@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\test_clt\test_clt\bin\Debug\test_clt.exe.config
+C:\Users\user\source\repos\test_clt\test_clt\bin\Debug\test_clt.exe
+C:\Users\user\source\repos\test_clt\test_clt\bin\Debug\test_clt.pdb
+C:\Users\user\source\repos\test_clt\test_clt\obj\Debug\test_clt.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\test_clt\test_clt\obj\Debug\test_clt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\test_clt\test_clt\obj\Debug\test_clt.exe
+C:\Users\user\source\repos\test_clt\test_clt\obj\Debug\test_clt.pdb
